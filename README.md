@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @eliada
+- 👀 I’m interested in IT & Coding
+- 🌱 I’m currently learning React - Next
