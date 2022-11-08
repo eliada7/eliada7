@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @eliada
 - 👀 I’m interested in IT & Coding
 - 🌱 I’m currently learning React - Next
-- the php chalange has started , I am excited about it
+- The php chalange has started , I am excited about it
